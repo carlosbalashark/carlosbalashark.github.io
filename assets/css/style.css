@@ -44,10 +44,9 @@ img {
 }
 .section-title {
   text-align: center;
-  text-transform: uppercase;
   color: #0BAFA0;
-  font-size: 50px;
-  font-weight: 700;
+  font-size: 35px;
+  font-weight: 600;
   padding: 48px 20px;
 }
 .section-title span {
@@ -178,14 +177,8 @@ img {
   font-size: 62px;
   color: #ffffff;
 }
-#intro .main-text h1 span {
+#intro .main-text h2 span {
   color: #0BAFA0;
-}
-#intro .main-text h2 {
-  color: #ffffff;
-  font-size: 30px;
-  font-weight: 300;
-  line-height: 60px;
 }
 #intro .main-text .btn {
   font-size: 20px;
@@ -221,12 +214,14 @@ img {
   background: #ffffff;
   border-radius: 50%;
   height: 54px;
-  left: -7px;
+  left: -25px;
   padding: 3px;
   position: absolute;
   top: -30px;
   width: 54px;
 }
+
+
 #services .icon-wrapper i {
   background: #ffffff;
   color: #0BAFA0;
