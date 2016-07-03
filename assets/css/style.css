@@ -170,14 +170,14 @@ img {
   background: url("../img/background/bg-overlay.png") rgba(0, 0, 0, 0.6) repeat;
 }
 #intro .main-text {
-  margin: 202px 0px;
+  margin: 170px 32px;
 }
 #intro .main-text h1 {
   font-weight: 700;
   font-size: 62px;
   color: #ffffff;
 }
-#intro .main-text h2 span {
+#intro .main-text h1 span {
   color: #0BAFA0;
 }
 #intro .main-text .btn {
